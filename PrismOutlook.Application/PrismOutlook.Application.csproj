@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Folder Include="Models\Calendar" />
+        <Folder Include="Models\Mail" />
+        <Folder Include="Models\People" />
+        <Folder Include="Models\Tasks" />
+    </ItemGroup>
+
+</Project>

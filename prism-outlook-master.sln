@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook", "PrismOutlook\PrismOutlook.csproj", "{8FDDCC54-08C3-4DCF-A8E7-156DBABC9C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.People", "PrismOutlook.Modules.People\PrismOutlook.Modules.People.csproj", "{F68B721B-E904-45FB-8B6B-B87AD1CFE715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.Mail", "PrismOutlook.Modules.Mail\PrismOutlook.Modules.Mail.csproj", "{754C3517-C2D0-427C-A431-F64A11B6C976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.Calendar", "PrismOutlook.Modules.Calendar\PrismOutlook.Modules.Calendar.csproj", "{93F5432D-2D53-4B79-A56D-0ECD1A9478FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Core", "PrismOutlook.Core\PrismOutlook.Core.csproj", "{77C8C673-387D-40BE-B4C5-67D9AB5920CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Application", "PrismOutlook.Application\PrismOutlook.Application.csproj", "{E6A4CCF2-2786-473F-A81C-9E6E0C7A5F00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Data", "PrismOutlook.Data\PrismOutlook.Data.csproj", "{B0B44BFC-4A6E-4309-9F55-D27DC63057D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Services", "PrismOutlook.Services\PrismOutlook.Services.csproj", "{3D554799-A56B-431C-A808-DB7F41C20738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDDCC54-08C3-4DCF-A8E7-156DBABC9C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDDCC54-08C3-4DCF-A8E7-156DBABC9C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDDCC54-08C3-4DCF-A8E7-156DBABC9C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDDCC54-08C3-4DCF-A8E7-156DBABC9C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68B721B-E904-45FB-8B6B-B87AD1CFE715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68B721B-E904-45FB-8B6B-B87AD1CFE715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68B721B-E904-45FB-8B6B-B87AD1CFE715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68B721B-E904-45FB-8B6B-B87AD1CFE715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754C3517-C2D0-427C-A431-F64A11B6C976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754C3517-C2D0-427C-A431-F64A11B6C976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754C3517-C2D0-427C-A431-F64A11B6C976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754C3517-C2D0-427C-A431-F64A11B6C976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F5432D-2D53-4B79-A56D-0ECD1A9478FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F5432D-2D53-4B79-A56D-0ECD1A9478FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F5432D-2D53-4B79-A56D-0ECD1A9478FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F5432D-2D53-4B79-A56D-0ECD1A9478FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C8C673-387D-40BE-B4C5-67D9AB5920CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C8C673-387D-40BE-B4C5-67D9AB5920CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C8C673-387D-40BE-B4C5-67D9AB5920CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C8C673-387D-40BE-B4C5-67D9AB5920CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A4CCF2-2786-473F-A81C-9E6E0C7A5F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A4CCF2-2786-473F-A81C-9E6E0C7A5F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A4CCF2-2786-473F-A81C-9E6E0C7A5F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A4CCF2-2786-473F-A81C-9E6E0C7A5F00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B44BFC-4A6E-4309-9F55-D27DC63057D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B44BFC-4A6E-4309-9F55-D27DC63057D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B44BFC-4A6E-4309-9F55-D27DC63057D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B44BFC-4A6E-4309-9F55-D27DC63057D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D554799-A56B-431C-A808-DB7F41C20738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D554799-A56B-431C-A808-DB7F41C20738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D554799-A56B-431C-A808-DB7F41C20738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D554799-A56B-431C-A808-DB7F41C20738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
